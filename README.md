@@ -40,14 +40,24 @@
   <img src="https://leetcard.jacoblin.cool/Gopi_2703?theme=unicorn&font=Righteous&ext=contest&animation=true" height="265" alt="LeetCode Stats"/>
   
   <!-- 🟣 CodeChef -->
-  <img src="https://codechef-readme-stats.vercel.app/api/user?username=gopi_270306&theme=radical" height="265" alt="CodeChef Stats"/>
+  <img src="https://codechef-api.vercel.app/gopi_270306?theme=dark&font=Righteous" height="265" alt="CodeChef Stats"/>
 </p>
 
 <!-- 🔵 Codeforces -->
 <p align="center">
-  <a href="https://codeforces.com/profile/Gopi_270306" target="_blank">
-    <img src="https://cf.leed.at?username=Gopi_270306" alt="Codeforces Stats" height="265"/>
+  <a href="https://codeforces.com/profile/Gopi_2703" target="_blank">
+    <img src="https://raw.githubusercontent.com/hellokeshav75/cf-stats-card/main/output/light/username=Gopi_2703.svg" alt="Codeforces Stats" height="265"/>
   </a>
+</p>
+
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gopi-27&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gopi-27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
