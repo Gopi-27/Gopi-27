@@ -36,19 +36,18 @@
 ## 🧮 Live Coding Stats
 
 <p align="center">
-  <!-- 🟢 LeetCode -->
   <img src="https://leetcard.jacoblin.cool/Gopi_2703?theme=unicorn&font=Righteous&ext=contest&animation=true" height="265" alt="LeetCode Stats"/>
-  
-  <!-- 🟣 CodeChef -->
-  <img src="https://codechef-api.vercel.app/gopi_270306?theme=dark&font=Righteous" height="265" alt="CodeChef Stats"/>
 </p>
 
-<!-- 🔵 Codeforces -->
 <p align="center">
+  <a href="https://www.codechef.com/users/Gopi_270306" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-gopi__270306-955251?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
   <a href="https://codeforces.com/profile/Gopi_2703" target="_blank">
-    <img src="https://raw.githubusercontent.com/hellokeshav75/cf-stats-card/main/output/light/username=Gopi_2703.svg" alt="Codeforces Stats" height="265"/>
+    <img src="https://img.shields.io/badge/Codeforces-Gopi__270306-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
@@ -56,8 +55,8 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gopi-27&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gopi-27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img width="390" height = "150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gopi-27&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width="390" height = "150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gopi-27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
@@ -88,7 +87,7 @@ A strategic two-player game featuring **Human vs Human** and **Human vs Computer
   <a href="https://linkedin.com/in/gopi-ravulapalli" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="mailto:gopiyadav4788@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://wa.me/6304891827" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="45"/></a>
+  <a href="https://wa.me/91" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="45"/></a>
 </p>
 
 ---
