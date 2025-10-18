@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=gradient&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+My+GitHub+Profile!;I'm+Venkata+Gopi+Ravulapalli!;I+💖+Coding+and+Problem+Solving!;Always+Learning+New+Tech!"/>
 </h1>
 
-<h3 align="center">Aspiring Software Engineer | Competitive Programmer | India 🇮🇳</h3>
-
+<h3 align="center">Aspiring Software Engineer | Passionate Coder | India 🇮🇳</h3>
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gopi-27&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
