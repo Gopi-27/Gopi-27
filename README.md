@@ -43,7 +43,7 @@
   <a href="https://www.codechef.com/users/Gopi_270306" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-gopi__270306-955251?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/Gopi_2703" target="_blank">
+  <a href="https://codeforces.com/profile/Gopi_270306" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Gopi__270306-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
