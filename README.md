@@ -63,34 +63,42 @@
 
 ---
 
-## 🧩 Academic Project
-
-🎮 **Puzzle Game (C Language)**  
-A strategic two-player game featuring **Human vs Human** and **Human vs Computer** modes.  
-✨ **Highlights:**
-- Turn-based logic & win detection (rows, columns, diagonals)  
-- Algorithmic design for intelligent move decisions  
-- Strengthened logical and modular programming skills  
-
----
-
-## 🏅 Certifications
-
-- 🧾 **Microsoft Office Specialist**  
-- ⚙️ **Microsoft Power Platform Fundamentals**  
-- 🧮 **HackerRank Certifications:** Problem Solving (Basic) | C (Basic)
-
----
-
 ## 💬 Connect with Me  
 
+
 <p align="center">
-  <a href="https://github.com/Gopi-27" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://linkedin.com/in/gopi-ravulapalli" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:gopiyadav4788@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://wa.me/91" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="45"/></a>
+  <!-- 🌐 Professional & Social Profiles -->
+  <a href="https://github.com/Gopi-27" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  <a href="https://linkedin.com/in/gopi-ravulapalli" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:gopiyadav4788@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  
+  <!-- 💻 Coding Profiles -->
+  <a href="https://www.hackerrank.com/Gopi_270306" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" title="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/Gopi_270306" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="45" title="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/u/Gopi_2703" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" title="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/Gopi_270306" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" title="Codeforces"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/Gopi_270306" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" title="GeeksforGeeks"/>
+  </a>
 </p>
+
 
 ---
 
