@@ -46,8 +46,10 @@
   <a href="https://codeforces.com/profile/Gopi_270306" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Gopi__270306-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/Gopi_270306" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Gopi__270306-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"      alt="GeeksforGeeks Profile"/>
+  </a>
 </p>
-
 
 
 ---
